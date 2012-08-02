@@ -1,1 +1,9 @@
+Description
+====
+
 This is a PHP wrapper class for the Battle.net API for World of Warcraft.  This class is used by Battlebook.me, a personal project of mine.
+
+Usage
+====
+
+Just works!
